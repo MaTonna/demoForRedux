@@ -23,3 +23,7 @@ export const SearchInput = styled.input.attrs({
 		transition: all 1s;
 	}
 `;
+
+export const SearchItem = styled.span`
+	margin-right: 10px;
+`;
